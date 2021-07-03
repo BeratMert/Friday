@@ -5,7 +5,7 @@ Friday
 .. .. image:: https://img.shields.io/pypi/v/Friday.svg
 ..        :target: https://pypi.python.org/pypi/Friday
 .. This project has not yet been uploaded to PyPI when it has this will be updated.
-
+[![Run on Repl.it](https://repl.it/badge/github/Zenohm/Friday)](https://repl.it/github/Zenohm/Friday)
 .. image:: https://img.shields.io/travis/Zenohm/Friday.svg
         :target: https://travis-ci.org/Zenohm/Friday
 
